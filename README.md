@@ -26,7 +26,7 @@ Install all dependencies using the provided `requirements.txt`.
 ## Usage
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo-name/DEN.git
+    git clone https://github.com/Arker123/Divergent-Ensemble-Networks.git
     cd DEN
     ```
 2. Install dependencies:
