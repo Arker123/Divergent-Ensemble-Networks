@@ -1,0 +1,32 @@
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore model files or large binaries (if applicable)
+*.h5
+*.ckpt
+
+# Ignore logs
+*.log
+
+# Ignore generated files
+*.png
+*.jpg
+*.svg
+*.pdf
+
